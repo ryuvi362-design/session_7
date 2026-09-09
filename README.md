@@ -1,4 +1,4 @@
-[README 7.md](https://github.com/user-attachments/files/31996782/README.7.md)
+
 ```python
 age = int(input("Enter your age: "))
 if age >= 18:
